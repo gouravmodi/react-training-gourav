@@ -1,0 +1,11 @@
+.scrollable-spa {
+  height: 500px; /* Adjust the height as needed */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.content {
+  /* Add any additional styles for the content section */
+}
